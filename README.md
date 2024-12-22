@@ -1,1 +1,2 @@
 # CODSOFT-Titanic-survival-prediction
+This project uses machine learning to predict the survival of passengers aboard the Titanic based on features like age, sex, class, and fare. The dataset is pre-processed, and various models are trained to make predictions. The best performing model is selected for accurate survival prediction. You can input passenger data to predict the likelihood of survival. The project aims to showcase classification techniques and model evaluation
